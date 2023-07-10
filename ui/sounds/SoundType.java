@@ -1,0 +1,12 @@
+package ui.sounds;
+
+public enum SoundType {
+	PLAYER_HIT,
+	BACKGROUND_SOUND,
+	WALKING_SOUND,
+	LASER_SOUND,
+	DOOR_SOUND,
+	WALL_IMPACT_SOUND,
+	CLICK_SOUND,
+	OBJ_PLACE_SOUND
+}

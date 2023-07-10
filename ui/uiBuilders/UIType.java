@@ -1,0 +1,10 @@
+package ui.uiBuilders;
+
+public enum UIType {
+	LOGIN_SCENE,
+	BUILDING_MODE_SCENE,
+	LEVEL_SCENE,
+	LEVEL_MENU,
+	SAVE_GAME_MENU,
+    MAIN_MENU, HELP_MENU, LOAD_GAME_MENU
+}
